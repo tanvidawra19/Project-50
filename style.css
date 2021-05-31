@@ -1,0 +1,61 @@
+h1{
+    background-color:rgb(255, 251, 0);
+    color: rgb(255, 30, 30);
+    text-align: center;
+}
+
+h2{
+    background-color:rgb(0, 0, 0);
+    color: rgb(232, 118, 255);
+    text-align: center;
+}
+
+.camel{
+    border-color: rgb(99, 195, 250);
+    border-style: dashed;
+}
+
+.panda{
+    border-color: rgb(99, 195, 250);
+    border-style: dashed;
+}
+
+.teddy{
+    border-color: rgb(99, 195, 250);
+    border-style: dashed;
+}
+
+.pigeon{
+    border-color: rgb(99, 195, 250);
+    border-style: dashed;
+}
+
+.chameleon{
+    border-color: rgb(99, 195, 250);
+    border-style: dashed;
+}
+
+.cicada{
+    border-color: rgb(99, 195, 250);
+    border-style: dashed;
+}
+
+.second{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+
+.third{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+p{
+    font-family: 'Lucida Sans';
+}
+
+*{ 
+background-color: rgb(255, 197, 197);
+}
